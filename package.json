@@ -1,5 +1,5 @@
 {
-  "name": "@dejakob/xor",
+  "name": "alegrify-xor",
   "version": "1.0.0",
   "description": "Logical xor operator for JS",
   "main": "index.js",

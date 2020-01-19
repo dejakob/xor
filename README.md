@@ -1,7 +1,7 @@
 # XOR
 
-[![Build Status](https://travis-ci.org/dejakob/xor.svg?branch=master)](https://travis-ci.org/dejakob/xor)
-[![NPM](https://img.shields.io/npm/v/xor/latest.svg?label=npm)](https://npmjs.com/package/xor)
+[![Build Status](https://travis-ci.org/alegrify-xor/xor.svg?branch=master)](https://travis-ci.org/alegrify-xor)
+[![NPM](https://img.shields.io/npm/v/alegrify-xor/latest.svg?label=npm)](https://npmjs.com/package/alegrify-xor)
 
 Logical xor operator for JS
 
@@ -17,7 +17,7 @@ Logical xor operator for JS
 ## Usage
 
 ```js
-const xor = require('@dejakob/xor');
+const xor = require('alegrify-xor');
 
 xor(true, false) // will return true
 ```
