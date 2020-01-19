@@ -1,6 +1,6 @@
 # XOR
 
-[![Build Status](https://travis-ci.org/alegrify-xor/xor.svg?branch=master)](https://travis-ci.org/alegrify-xor)
+[![Build Status](https://travis-ci.org/dejakob/xor.svg?branch=master)](https://travis-ci.org/dejakob/xor)
 [![NPM](https://img.shields.io/npm/v/alegrify-xor/latest.svg?label=npm)](https://npmjs.com/package/alegrify-xor)
 
 Logical xor operator for JS
