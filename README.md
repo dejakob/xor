@@ -8,7 +8,7 @@ Logical xor operator for JS
 ## Boolean table
 
 | Condition | Condition | Output |
-|-----------|–----------|--------|
+|:----------|:----------|:-------|
 | false     | false     | false  |
 | false     | true      | true   |
 | true      | false     | true   |
